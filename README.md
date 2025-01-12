@@ -1,6 +1,6 @@
 # Github Actions
 
-live at
+we're live at
 ```
 https://artaxerxess.github.io/Github-Pages-Test/src/html/index.html
 ```
